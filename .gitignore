@@ -1,0 +1,7 @@
+###> symfony/framework-bundle ###
+/.env
+/.vagrant/*
+/.idea/*
+/var/
+/vendor/
+###< symfony/framework-bundle ###
